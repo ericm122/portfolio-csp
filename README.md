@@ -58,3 +58,24 @@ Project 5: Simple Calculator
       -Choose any operations 
       
       -Input any number desired
+
+Project 6: Final for CSP (Fisch) 
+
+**Summary**:This program is a game where users can fish, check their fishes, and sort their fishes. The fishes' rarity come with common, uncommon, rare, legendary, secret.
+
+**Key Features**:
+
+      -Cast your rod, check your fishes, sort your fishes 
+      
+      -Takes time to catch fish 
+      
+Project 7: 8Ball 
+
+**Summary**:This program operates like an 8Ball. Ther user inputs a question, then the computer will randomly generate 10 choices from "magiclist". Which includes: "It is certain", "It is decidedly so", "Without a doubt", "Yes definitely", "You may rely on it", "Reply hazy, try again", "Ask again later", "Better not tell you now", "Cannot predict now", "Concentrate and ask again", "Don’t count on it", "My reply is no", "My sources say no", "Outlook not so good", "Very doubtful"
+
+
+**Key Features**:
+
+      -answers to yes/no questions through a mechanism that randomly selects one of 10 possible responses
+      
+      -Takes time to get a response, making it seem like you're shaking the magic 8ball 
